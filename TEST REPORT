@@ -2,17 +2,15 @@ Name	About	Labels	Assignees
 🪲 Failing test	Did you find a failing test in our CI? Report your findings here.	type: failing_test	
 Welcome 👋
 Thanks for taking the time to fill out this issue.
-Please fill out each section below. This info allows Mina maintainers to triage and fix the failing test(s) as quickly as possible.
+Please fill out each section below. This info allows IOTEN maintainers to triage and fix the failing test(s) as quickly as possible.
 
 Useful links:
 
-Documentation: https://docs.minaprotocol.com/
-Contributing: check CONTRIBUTING.md
 Preliminary Checks
 Please make sure that you verify each checkbox and follow the instructions for them.
 
- This issue is not a duplicate. Before opening a new issue, please search existing issues: https://github.com/MinaProtocol/mina/issues *
- This issue is not a question, feature request, RFC, or anything other than a bug report. Please post those things in GitHub Discussions: https://github.com/MinaProtocol/mina/discussions *
+ This issue is not a duplicate. Before opening a new issue, please search existing issues: https://github.com/IOTENNetwork
+ This issue is not a question, feature request, RFC, or anything other than a bug report. Please post those things in GitHub Discussions: https://github.com/IOTENNetwork *
 Summary
 List which test(s) are failing, and describe how you expect them to behave.
 
